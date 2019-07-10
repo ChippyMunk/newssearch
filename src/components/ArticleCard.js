@@ -34,6 +34,7 @@ class ArticleCard extends React.Component {
       <div id="card" style={{ gridRowEnd: `span ${this.state.spans}` }}>
         <img style={{ width: '100%' }}
           ref={this.articleRef}
+          alt="#"
           src={image}
         />
         <div className="container" style={{ padding: 3 }}>
