@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Search by key word
-(public/screenshot1.png)
+![Search by key word](public/screenshot1.png)
 
 
 Discover hot headlines
-(public/screenshot2.png)
+![Discover hot headlines](public/screenshot2.png)
